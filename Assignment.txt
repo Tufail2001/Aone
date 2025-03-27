@@ -1,23 +1,23 @@
-Agentic AI Startup RoadMap
+Agentic AI Startup Road Map
 Islamabad Teams
 
 Assignment Level 1:
-1. Anthropic Design Patters
+1. Anthropic Design Patterns
 2. Crewai flows implementation of design patterns and litellm
 3. Crews, agents, tasks in crewai
 4. knowledge, RAG in crewai
 5. Function calling in crewai
 6. Memory in crewai
 7. MCP (model context protocol) in depth
-8. MCP integration in crewai with crews, agents and task
+8. MCP integration in crewai with crews, agents and tasks
 9. MCP integration with litellm
 10. Stripe agentic payments
 11. Crewai default deployment Payment Alternatives
 12. Crewai deployment with cloud native (Docker, Kubernetes)
 13. Crewai deployment with Serverless Containers (Docker, Azure container apps)
 14. Next.js UI integration with crewai
-15. Crewai inter agent communication (deplooyed seperately)
-16. Ovservabilitly with AgentOps
+15. Crewai inter-agent communication (deployed separately)
+16. Observability with AgentOps
 Assignment Level 2:
 1. LangGraph Functional API
 2. LangGraph design pattern implementation with langchain
