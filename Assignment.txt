@@ -1,13 +1,13 @@
 Agentic AI Startup Road Map
 
 
-Assignment Level 01:
+Assignment Level 1:
 1. Anthropic Design Patterns
 2. Crewai flows implementation of design patterns and litellm
 3. Crews, agents, tasks in CrewAI
-4. knowledge, RAG in crewai
-5. Function calling in crewai
-6. Memory in crewai
+4. knowledge, RAG in Crewai
+5. Function calling in Crewai
+6. Memory in Crewai
 7. MCP (model context protocol) in depth
 8. MCP integration in CrewAI with crews, agents, and tasks
 9. MCP integration with litellm
@@ -15,7 +15,7 @@ Assignment Level 01:
 11. Crewai default deployment Payment Alternatives
 12. Crewai deployment with cloud-native (Docker, Kubernetes)
 13. Crewai deployment with Serverless Containers (Docker, Azure container apps)
-14. Next.js UI integration with crewai
+14. Next.js UI integration with Crewai
 15. Crewai inter-agent communication (deployed separately)
 16. Observability with AgentOps
 Assignment Level 2:
@@ -28,16 +28,16 @@ Assignment Level 2:
 7. MCP integration in LangGraph
 8. Stripe agentic payments with langGraph
 9. LangGraph default deployment (LangServer)
-10. LangGraph deployment with cloud native (Docker, Kubernetes)
+10. LangGraph deployment with cloud-native (Docker, Kubernetes)
 11. LangGraph deployment with Serverless Containers (Docker, Azure container apps)
 12. Next.js UI integration with langGraph
 13. LangGraph inter-agent communication (deployed separately)
 14. Obserability with langSmith
-15. LangGraph and crewai inter-agent communication (deployed separately)
+15. LangGraph and Crewai inter-agent communication (deployed separately)
 16. Research on inter-agent communication protocols
 17. Crewai automated coding with the cursor and GitHub Copilot
 
-Assignment Level 3 ( Etnerprise level)
+Assignment Level 3 ( Enterprise level)
 1. Autogen > 0.4
 2. MCP with autogen
 3. Stripe with autogen
