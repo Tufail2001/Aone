@@ -18,6 +18,7 @@ Assignment Level 1 :
 14. Next.js UI integration with Crewai
 15. Crewai inter-agent communication (deployed separately)
 16. Observability with AgentOps
+
 Assignment Level 2:
 1. LangGraph Functional API
 2. LangGraph design pattern implementation with LangChain
@@ -36,6 +37,7 @@ Assignment Level 2:
 15. LangGraph and Crewai inter-agent communication (deployed separately)
 16. Research on inter-agent communication protocols
 17. Crewai automated coding with the cursor and GitHub Copilot
+
 
 Assignment Level 3 ( Enterprise level)
 1. Autogen > 0.4
