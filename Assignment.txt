@@ -42,7 +42,7 @@ Assignment Level 2:
 Assignment Level 3 ( Enterprise level)
 1. Autogen > 0.4
 2. MCP with autogen.
-3. Stripe with autogen
+3. Stripe with autogen.
 4. Deployment with serverless container (Azure)
 5. Inter-agent communication with all other agents
 
