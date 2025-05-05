@@ -36,7 +36,7 @@ Assignment Level 2:
 14. Obserability with langSmith
 15. LangGraph and Crewai inter-agent communication (deployed separately)
 16. Research on inter-agent communication protocols
-17. Crewai automated coding with the cursor and GitHub Copilot
+17. Crewai automated coding with the cursor and GitHub Copilot.
 
 
 Assignment Level 3 ( Enterprise level)
