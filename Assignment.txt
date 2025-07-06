@@ -60,7 +60,7 @@ Assignment Level 5 (Become a Startup Founder):
 
 Team: Zahir Ahmed, Rehan, Usman, Husnain, Tufail, Wania
 
----crewai create flow blog_flow (creates a folder of blog_flow).
+---crewai create flow blog_flow (creates a folder of blog_flow)
 
 @LangGraph, create a simple example of implementing this router design pattern using the functional API. Use a random module to route
 Routing classifies an input and directs it to a specialized follow-up task. This workflow enables the separation of concerns and the creation of more specialized prompts. Without this workflow, optimizing for one kind of input can hurt the performance of other inputs
