@@ -5,7 +5,7 @@ Assignment Level 1:-
 1. Anthropic Design Patterns
 2. Crewai flows implementation of design patterns and litellm
 3. Crews, agents, tasks in CrewAI
-4. knowledge, RAG in Crewai
+4. knowledge, RAG in Crewai.
 5. Function calling in Crewai.
 6. Memory in Crewai
 7. MCP (model context protocol) in depth 
