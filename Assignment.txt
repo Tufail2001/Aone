@@ -19,7 +19,7 @@ Assignment Level 1:-
 15. Crewai inter-agent communication (deployed separately)
 16. Observability with AgentOps.
 
-Assignment Level 2:
+Assignment Level 2:-
 1. LangGraph Functional API.
 2. LangGraph design pattern implementation with LangChain
 3. Task and entry point.
